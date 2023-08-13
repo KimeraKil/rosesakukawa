@@ -1,3 +1,3 @@
 $(document).ready(function(){
-    window.open(link)
+    window.location.href = ("https://kimerakil.github.io/rosesakukawa/")   
 })
