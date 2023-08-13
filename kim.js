@@ -1,3 +1,3 @@
 $(document).ready(function(){
-    window.location.href = ("https://kimerakil.github.io/rosesakukawa/")   
+    window.location.href = ("http://convites.infinityfreeapp.com/rose")   
 })
